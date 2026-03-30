@@ -15,7 +15,7 @@ This Power BI dashboard analyzes BMW sales data from 2018 to 2025, providing ins
 - Data Visualization  
 
 ## 📷 Dashboard Preview
-![Dashboard](bmw-dashboard.png)
+![Dashboard](bmw-sales-dashboard.png)
 
 ## 📁 Files
 - `.pbix` file included for interactive exploration  
